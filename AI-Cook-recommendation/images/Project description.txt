@@ -1,0 +1,18 @@
+AICOOK
+
+The idea is that the cameras can scan what’s inside and let users know what items they’re short on, 
+even making meal suggestions based on the ingredients they still have.
+So in short, we take an exiting frigde and add software upgrades to enable 
+AI image recognition in its View Inside cameras.
+
+Step up your meal game with our new AI-powered app
+- Snap a pic of your fridge
+- let our obj detection count your veggies & ingredients
+- then ask #ChatGPT for personalized recipe suggestions. No more wasted food or meal planning struggles.
+
+2 very important points
+It identifies ingredients in the frigde and offer up recipe and meal plan suggestions based on what 
+ingredients you have.
+
+Ingredients List.		
+apple, banana, beef, blueberries, bread, butter, carrot, cheese, chicken, chicken_breast, chocolate, corn, eggs, flour, goat_cheese, green_beans, ground_beef, ham, heavy_cream, lime, milk, mushrooms, onion, potato, shrimp, spinach, strawberries, sugar,sweet_potato
